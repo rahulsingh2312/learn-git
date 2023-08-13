@@ -5,7 +5,7 @@ This repo is to teach git . >.&lt;
 Welcome to our Git and GitHub tutorial repository! In this guide, you'll learn the basics of using Git for version control and GitHub for collaboration. Whether you're new to version control or want to improve your skills, this guide is here to help you.
 
 ## Table of Contents
--[Beginner](#whatsarepo)
+- [Beginner](#whatsarepo)
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Basic Git Commands](#basic-git-commands)
