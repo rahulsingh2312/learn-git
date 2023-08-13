@@ -42,7 +42,7 @@ Version control is a crucial skill for software development, allowing you to tra
 5. Push your changes to your forked repository.
 6. Create a pull request from your branch to the original repository.
 
-Feel free to contribute to this tutorial by creating pull requests and suggesting improvements! _ (make a pull request with a folder of ur name or something more fun )
+## Feel free to contribute to this tutorial by creating pull requests and suggesting improvements! _ (make a pull request with a folder of ur name or something more fun )
 
 ## Collaborating with Others
 
