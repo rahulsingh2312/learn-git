@@ -5,6 +5,7 @@ This repo is to teach git . >.&lt;
 Welcome to our Git and GitHub tutorial repository! In this guide, you'll learn the basics of using Git for version control and GitHub for collaboration. Whether you're new to version control or want to improve your skills, this guide is here to help you.
 
 ## Table of Contents
+- [template for Pr ] (#pr template)
 - [Beginner](#whatsarepo)
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
@@ -41,6 +42,20 @@ Version control is a crucial skill for software development, allowing you to tra
 4. Make and commit your changes.
 5. Push your changes to your forked repository.
 6. Create a pull request from your branch to the original repository.
+
+## pr template
+
+> ## Description
+[FIXED]ALL the errors of texts of all pages i.e index-page and 13 other pages and dark mode button fixed at all pages using only bootstrap classes no new style class made . 
+> 
+> ## Fixes
+> fixes #14 
+> 
+> ## Checklist
+> * [x]  Only bootstrap used works best in dark and light mode
+> * [x]  darkmode button padding fixed checked at mobile view
+> * [x] all 14 pages fixed 
+>
 
 ## Feel free to contribute to this tutorial by creating pull requests and suggesting improvements! _ (make a pull request with a folder of ur name or something more fun ) and star the repository 🙏
 
