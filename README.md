@@ -59,7 +59,7 @@ Version control is a crucial skill for software development, allowing you to tra
 > - important things
 > - thing 2 
 
-## Feel free to contribute to this tutorial by creating pull requests and suggesting improvements! _ (make a pull request with a folder of ur name or something more fun ) and star the repository 🙏
+## Feel free to contribute to this tutorial by creating pull requests and suggesting improvements! _ (make a pull request with a folder of ur name or something more fun ) 
 
 ## Collaborating with Others
 
